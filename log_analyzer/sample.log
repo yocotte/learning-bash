@@ -1,0 +1,10 @@
+INFO: Service started successfully. pid=1234
+WARN: Disk space low on /dev/sda1. Usage: 90%
+ERROR: Connection refused to database server db.example.com. Attempt 1/3.
+INFO: User 'alice' logged in from 192.168.1.100.
+ERROR: Connection refused to database server db.example.com. Attempt 2/3.
+DEBUG: Processing request id=xyz789.
+ERROR: Connection refused to database server db.example.com. Attempt 3/3.
+ERROR: Failed to process request id=abc123. Reason: Timeout.
+INFO: User 'bob' logged in from 10.0.2.5.
+WARN: High memory usage detected. 85% used.
